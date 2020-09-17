@@ -199,39 +199,38 @@ Tags:
 
 ## Lightning Investors
 
-- Abstract Ventures
-- AXA Venture Partners
-- Boost VC
-- Compound (the VC firm, not the protocol)
-- Craft Ventures
-- Data Collective DCVC
-- DG Daiwa Ventures
-- Digital Currency Group
-- Digital Garage
-- Fabric Ventures
-- Future Perfect Ventures
-- Greenoaks Capital
-- Horizons Ventures
-- Idinvest Partners
-- Jack Dorsey
-- Khosla Ventures
-- Lerer Hippeau
-- M13
-- Meltem Demirors
-- Morgan Creek Digital
-- Mosaic Ventures
-- Pegasus Tech Ventures
-- Proof of Capital
-- Real Ventures
-- Reid Hoffman
-- Ribbit Capital
-- RRE Ventures
-- Serena Ventures
-- Slow Ventures
-- Square Crypto
-- Tally Capital
-- Tencent Holdings
-- Castle Island Ventures
-- Stillmark Ventures
-- Mantis Ventures
-- BoostVC
+Groups and individuals who have invested in Lightning-based or Lightning-related companies.
+
+- [Abstract Ventures](https://www.abstractvc.com/)
+- [AXA Venture Partners](https://www.axavp.com/)
+- [Boost VC](https://www.boost.vc/)
+- [Castle Island Ventures](https://www.castleisland.vc/#)
+- [Compound](https://compound.vc/) (the VC firm, not the protocol)
+- [Craft Ventures](https://www.craftventures.com/)
+- [Data Collective](https://www.dcvc.com/) (DCVC)
+- [DG Daiwa Ventures](https://dg-daiwa-v.com/en/)
+- [Digital Currency Group](https://dcg.co/)
+- [DG Ventures](https://dgventures.com/en/)
+- [Fabric Ventures](https://www.fabric.vc/)
+- [Future Perfect Ventures](https://futureperfectventures.com/)
+- [Greenoaks Capital](http://www.greenoakscap.com/)
+- [Horizons Ventures](https://www.horizonsventures.com/)
+- [Idinvest Partners](https://www.idinvest.com/en)
+- [Jack Dorsey](https://twitter.com/jack)
+- [Khosla Ventures](https://www.khoslaventures.com/)
+- [Lerer Hippeau](https://www.lererhippeau.com/)
+- [M13](https://m13.co/)
+- [Meltem Demirors](https://twitter.com/Melt_Dem)
+- [Morgan Creek Digital](https://www.morgancreekfunds.com/)
+- [Mosaic Ventures](https://www.mosaicventures.com/)
+- [Pegasus Tech Ventures](https://www.pegasustechventures.com/)
+- [Proof of Capital](https://www.crunchbase.com/organization/proof-of-capital)
+- [Real Ventures](https://www.realventures.com/)
+- [Reid Hoffman](https://twitter.com/reidhoffman)
+- [Ribbit Capital](https://ribbitcap.com/)
+- [RRE Ventures](https://rre.com/)
+- [Serena Ventures](https://www.serenaventures.com/)
+- [Slow Ventures](http://www.slow.co/)
+- [Square Crypto](https://twitter.com/sqcrypto)
+- [Stillmark Ventures](http://stillmark.co/)
+- [Tally Capital](https://tallycapital.com/)
