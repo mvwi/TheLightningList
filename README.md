@@ -181,7 +181,7 @@ Tags:
 - [gui][tool]
 - "ThunderHub is an open-source LND node manager where you can manage and monitor your node on any device or browser. It allows you to take control of the lightning network with a simple and intuitive UX and the most up-to-date tech stack."
 
-### Yalls
+### [Yalls](https://yalls.org/)
 
 - [tool]
 - "Read and write articles, with Lightning Network micropayments."
