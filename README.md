@@ -37,6 +37,11 @@ Tags:
 - "Blockstream is the leading provider of both open-source and commercial Bitcoin technologies. We deliver a range of products and services that make the adoption of Bitcoin and peer-to-peer finance easier than ever."
 - Blockstream is building Lightning's C implementation, [c-lightning](#c-lightning)
 
+### [Bluewallet](https://bluewallet.io/)
+
+- [wallet][android][ios]
+- Bitcoin and Lightning wallet.
+
 ### [Breez](https://breez.technology/)
 
 - [company][wallet][ios][android]
@@ -125,6 +130,11 @@ Tags:
 - [implementation]
 - Lightning's Go implementation, built by [Lightning Labs](#lightning-labs).
 
+### [LNPay.co](https://lnpay.co)
+
+- [company][tool]
+- "LNPay.co provides public facing tools for Lightning users/businesses/merchants."
+
 ### [Lnrpc](https://github.com/lightningnetwork/lnd/tree/master/lnrpc)
 
 - [tool]
@@ -170,6 +180,11 @@ Tags:
 
 - [company]
 - Square's crypto arm. Gives grants to open source software developers among other things.
+
+### [Stekking](https://stekking.com/)
+
+- [company]
+- Cash back via Lightning when you spend Bitcoin.
 
 ### [Strike](https://strike.zaphq.io/)
 
