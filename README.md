@@ -1,4 +1,4 @@
-# The Lightning List
+# :zap: The Lightning List :zap:
 
 > A collection of the most interesting projects, companies, and tools in the Lightning Network ecosystem.
 
