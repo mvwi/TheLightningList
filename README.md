@@ -58,6 +58,12 @@ Search using these tags:
 - `[company]` `[wallet]` `[hardware]`
 - Builds [Casa Multisig](#casa-multisig), a multisig-based security service, and [Casa Node](#casa-node), a self-contained Bitcoin and Lightning hardware node.
 
+### [chantools](https://github.com/guggero/chantools)
+
+- `[tool]`
+- "A loose collection of tools all somehow related to lnd and Lightning Network channels."
+- (This set of tools is especially useful for recovering funds after having wallet/node issues.)
+
 ### [Elcair](https://github.com/ACINQ/eclair)
 
 - `[implementation]`
