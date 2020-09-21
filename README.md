@@ -2,9 +2,9 @@
 
 > A collection of the most interesting projects, companies, and tools in the Lightning Network ecosystem.
 
-See something missing? PRs are welcome!
+PRs are welcome!
 
-Looking for something specific? Search using these tags:
+Search using these tags:
 
 `[tool]` `[company]` `[implementation]` `[wallet]` `[hardware]` `[gui]` `[android]` `[ios]` `[web]` `[local-web]` `[explorer]` `[community]`
 
