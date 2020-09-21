@@ -209,7 +209,7 @@ Looking for something specific? Search using these tags:
 
 ## Lightning Investors
 
-Groups and individuals who have invested in Lightning-based or Lightning-related companies.
+Raising funding? These firms and individuals have a history of investing in Lightning-based or Lightning-related companies.
 
 - [Abstract Ventures](https://www.abstractvc.com/)
 - [AXA Venture Partners](https://www.axavp.com/)
