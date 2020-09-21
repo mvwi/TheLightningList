@@ -26,6 +26,11 @@ Search using these tags:
 - `[wallet]` `[android]`
 - "This app contains a standalone Bitcoin and Lightning node in a single package. It allows to send and receive regular Bitcoin transactions as well as Lightning payments."
 
+### [Bitrefill](https://www.bitrefill.com/)
+
+- `[company]`
+- "Purchase Gift Cards or Mobile Refills from more than 1650 businesses in 170 countries. Get eGifts & pay mobile bills quickly, safely, and privately with Bitcoin and other cryptocurrencies."
+
 ### [Blockstream](https://blockstream.com/)
 
 - `[company]`
@@ -196,7 +201,7 @@ Search using these tags:
 - `[gui]` `[tool]`
 - "ThunderHub is an open-source LND node manager where you can manage and monitor your node on any device or browser. It allows you to take control of the lightning network with a simple and intuitive UX and the most up-to-date tech stack."
 
-### [Yalls](https://yalls.org/)
+### [Y'alls](https://yalls.org/)
 
 - `[tool]`
 - "Read and write articles, with Lightning Network micropayments."
@@ -209,6 +214,11 @@ Search using these tags:
 ### [Zap Desktop](https://github.com/LN-Zap/zap-desktop)
 
 - `[wallet]` `[android]` `[ios]` `[web]`
+
+### [Zeus](https://zeusln.app/)
+
+- `[wallet]` `[android]` `[gui]`
+- An open-source tool to help you manage your Lightning node. Includes sending/receiving payments, managing channels, adjusting fees, and more.
 
 ---
 
