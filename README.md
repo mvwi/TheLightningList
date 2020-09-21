@@ -6,7 +6,7 @@ See something missing? PRs are welcome!
 
 Looking for something specific? Search using these tags:
 
-`[tool]` `[company]` `[implementation]` `[wallet]` `[hardware]` `[gui]` `[android]` `[ios]` `[web]` `[local-web]` `[explorer]`
+`[tool]` `[company]` `[implementation]` `[wallet]` `[hardware]` `[gui]` `[android]` `[ios]` `[web]` `[local-web]` `[explorer]` `[community]`
 
 ## The List
 
@@ -124,6 +124,11 @@ Looking for something specific? Search using these tags:
 
 - `[implementation]`
 - Lightning's Go implementation, built by [Lightning Labs](#lightning-labs).
+
+### [LND Developer Community Slack](https://lightning.engineering/slack.html)
+
+- `[community]`
+- A free Slack community for all your questions and comments on [LND](#lnd by [Lightning Labs](#lightning-labs).
 
 ### [LNPay.co](https://lnpay.co)
 
