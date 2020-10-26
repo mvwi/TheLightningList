@@ -207,6 +207,11 @@ Search using these tags:
 - `[gui]` `[tool]`
 - "ThunderHub is an open-source LND node manager where you can manage and monitor your node on any device or browser. It allows you to take control of the lightning network with a simple and intuitive UX and the most up-to-date tech stack."
 
+### [Voltage](https://getvoltage.io)
+
+- `[company]` `[web]`
+- "To harness the full power of the Lightning Network, you need to have your own node. However, setting up your own can be costly and requires deep technical knowledge. We're here to give you the power without the burden."
+
 ### [Y'alls](https://yalls.org/)
 
 - `[tool]`
